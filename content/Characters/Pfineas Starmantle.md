@@ -120,41 +120,41 @@ aliases: [Pfineas, Phineas]
 
 *Max Rank: 6/3 | Total Skill Points: 42*
 
-| Skill | Key Ability | Rank | Mod | Total |
-|-------|------------|------|-----|-------|
-| Appraise | INT | 5 | +5 | 10 |
-| Balance | DEX | 4 | +4 | 8 |
-| Bluff | CHA | 1 | +2 | 3 |
-| Climb | STR | 2 | +1 | 3 |
-| Concentration | CON | 6 | +3 | 9 |
-| Decipher Script | INT | 6 | +5 | 11 |
-| Diplomacy | CHA | 0 | +2 | 2 |
-| Disable Device | INT | 5 | +5 | 10 |
-| Disguise | CHA | 0 | +2 | 2 |
-| Escape Artist | DEX | 4 | +4 | 8 |
-| Forgery | INT | 5 | +5 | 10 |
-| Gather Information | CHA | 0 | +2 | 2 |
-| Handle Animal | CHA | 0 | +2 | 2 |
-| Heal | WIS | 0 | +2 | 2 |
-| Hide | DEX | 1 | +4 | 5 |
-| Intimidate | CHA | 0 | +2 | 2 |
-| Jump | STR | 0 | +1 | 1 |
-| Knowledge (Arcana) | INT | 6 | +5 | 11 |
-| Knowledge (Local Whillip) | INT | 0 | +5+1 | 6 |
-| Listen | WIS | 0 | +2+2\* | 4 |
-| Move Silently | DEX | 1 | +4 | 5 |
-| Open Lock | DEX | 4 | +4 | 8 |
-| Ride | DEX | 4 | +4 | 8 |
-| Search | INT | 1 | +5+2\* | 8 |
-| Sense Motive | WIS | 0 | +2 | 2 |
-| Sleight of Hand | DEX | 4 | +4 | 8 |
-| Spellcraft | INT | 6 | +5 | 11 |
-| Spot | WIS | 2 | +2+2\* | 6 (+3 shadowy) |
-| Survival | WIS | 0 | +2 | 2 |
-| Swim | STR | 1 | +1 | 2 |
-| Tumble | DEX | 1 | +4 | 5 |
-| Use Magic Device | CHA | 0 | +2 | 2 |
-| Use Rope | DEX | 4 | +4 | 8 |
+| Skill                     | Key Ability | Rank | Mod    | Total          |
+| ------------------------- | ----------- | ---- | ------ | -------------- |
+| Appraise                  | INT         | 5    | +5     | 10             |
+| Balance                   | DEX         | 4    | +4     | 8              |
+| Bluff                     | CHA         | 1    | +2     | 3              |
+| Climb                     | STR         | 2    | +1     | 3              |
+| Concentration             | CON         | 6    | +3     | 9              |
+| Decipher Script           | INT         | 6    | +5     | 11             |
+| Diplomacy                 | CHA         | 0    | +2     | 2              |
+| Disable Device            | INT         | 5    | +5     | 10             |
+| Disguise                  | CHA         | 0    | +2     | 2              |
+| Escape Artist             | DEX         | 4    | +4     | 8              |
+| Forgery                   | INT         | 5    | +5     | 10             |
+| Gather Information        | CHA         | 0    | +2     | 2              |
+| Handle Animal             | CHA         | 0    | +2     | 2              |
+| Heal                      | WIS         | 0    | +2     | 2              |
+| Hide                      | DEX         | 1    | +4     | 5              |
+| Intimidate                | CHA         | 0    | +2     | 2              |
+| Jump                      | STR         | 0    | +1     | 1              |
+| Knowledge (Arcana)        | INT         | 6    | +5     | 11             |
+| Knowledge (Local Whillip) | INT         | 0    | +5+1   | 6              |
+| Listen                    | WIS         | 0    | +2+2\* | 4              |
+| Move Silently             | DEX         | 1    | +4     | 5              |
+| Open Lock                 | DEX         | 4    | +4     | 8              |
+| Ride                      | DEX         | 4    | +4     | 8              |
+| Search                    | INT         | 1    | +5+2\* | 8              |
+| Sense Motive              | WIS         | 0    | +2     | 2              |
+| Sleight of Hand           | DEX         | 4    | +4     | 8              |
+| Spellcraft                | INT         | 6    | +5     | 11             |
+| Spot                      | WIS         | 2    | +2+2\* | 6 (+3 shadowy) |
+| Survival                  | WIS         | 0    | +2     | 2              |
+| Swim                      | STR         | 1    | +1     | 2              |
+| Tumble                    | DEX         | 1    | +4     | 5              |
+| Use Magic Device          | CHA         | 0    | +2     | 2              |
+| Use Rope                  | DEX         | 4    | +4     | 8              |
 
 *\* Racial bonus (+2 Listen/Search/Spot)*
 

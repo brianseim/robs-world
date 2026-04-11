@@ -77,3 +77,11 @@ Rob's World/
 └── Resources/
     └── Important Links.md
 ```
+
+## Technology
+
+setting up Git Repo: https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
+setting up hosting: https://quartz.jzhao.xyz/hosting
+authored in Obsidian: https://obsidian.md/
+
+`npx quarz sync` is the command to update the Repo
