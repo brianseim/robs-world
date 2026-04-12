@@ -68,9 +68,23 @@
               "icon": "lucide-file",
               "title": "AvyLynn"
             }
+          },
+          {
+            "id": "0396c44607ffe568",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Rob's World/.obsidian/workspace.json",
+                "bFile": "Rob's World/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,12 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AvyLynn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AvyLynn"
+              "title": "Outgoing links"
             }
           },
           {
@@ -230,10 +243,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eb8092d9cc9ae25",
+  "active": "0396c44607ffe568",
   "lastOpenFiles": [
-    "Party/The Xterminators.md",
+    "conflict-files-obsidian-git.md",
     "AvyLynn.md",
+    "Party/The Xterminators.md",
     "Characters/Pfineas Starmantle.md",
     "Adventure/Items  & Equipment/Sword of the Dales.md",
     "Adventure/People Met/Randall Moren.md",
