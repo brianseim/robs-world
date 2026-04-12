@@ -51,16 +51,16 @@ aliases:
 
 ## Combat Stats
 
-| Stat | Value |
-|------|-------|
-| **HP (Total)** | 23 |
-| **HP (Current)** | _(update at table)_ |
-| **AC** | 17 (10 + 3 armor + 4 Dex) |
-| **Touch AC** | 17 |
-| **Flat-footed AC** | 13 |
-| **Initiative** | +4 (Dex +4) |
-| **Speed** | 30 ft. |
-| **Action Points** | 3 |
+| Stat               | Value                     |
+| ------------------ | ------------------------- |
+| **HP (Total)**     | 23                        |
+| **HP (Damage)**    |                           |
+| **AC**             | 17 (10 + 3 armor + 4 Dex) |
+| **Touch AC**       | 17                        |
+| **Flat-footed AC** | 13                        |
+| **Initiative**     | +4 (Dex +4)               |
+| **Speed**          | 30 ft.                    |
+| **Action Points**  | 3                         |
 
 ### Saving Throws
 
@@ -174,37 +174,38 @@ Elven, Common, Draconic, Gnome, Goblin, Sylvan, Orc
 
 ## Equipment & Possessions
 
-| Item | Weight | Location |
-|------|--------|----------|
-| Explorer's Outfit | 0 lbs (exempt) | Worn |
-| Backpack (capacity 50 lbs) | 2 lbs | Back |
-| Waterskin | 5 lbs | Worn |
-| Quiver | 1 lb | Back |
-| Bedroll | 25 lbs | Backpack |
-| Sack (small) | 1 lb | Backpack |
-| Flint and Steel | 0.25 lbs | Backpack |
-| 10 Candles | 0.25 lbs | Backpack |
-| Metal Scroll Tube | 1 lb | Belt |
-| 3 pages of Parchment | 0.05 lbs | Backpack |
-| Ink | 0.25 lbs | Backpack |
-| Inkpen | 1 lb | Belt |
-| Spell Components Pouch | 3 lbs | Belt |
-| Spellbook, Travelling (40 pages) | 3 lbs | Backpack |
-| Dragon Hide Spellbook, Travelling (50 pages) | 3 lbs | Backpack |
-| Canteen | 5 lbs | Worn |
-| Rations, 10 days | 10 lbs | Backpack |
-| Sunrod | 1 lb | Backpack |
-| Serpentstongue Arrows (16) + Silver Tipped Sheal Arrows (6) | 3 lbs | Quiver |
-| Taint Sticks (2) | 0.02 lbs | Backpack |
-| Potion of Healing | 0.1 lb | Backpack |
-| Scroll of Mage Armor *(used)* | 0.02 lbs | Scrolltube |
-| Cal Shaped Sphere (Lightning Resistance) | 0.01 lb | Pouch |
-| Scroll of Sleep | 0.02 lbs | Scrolltube |
-| Healing Belt | 0.25 lbs | Waist |
-| Paper suitable for a scroll | — | Backpack |
-| Full length seal fur coat | — | — |
-| All purpose leather gloves | — | — |
-| Standard Spellbook (88/100 pages, 12 remaining) | — | — |
+| Item                                                        | Weight         | Location   |
+| ----------------------------------------------------------- | -------------- | ---------- |
+| Explorer's Outfit                                           | 0 lbs (exempt) | Worn       |
+| Backpack (capacity 50 lbs)                                  | 2 lbs          | Back       |
+| Waterskin                                                   | 5 lbs          | Worn       |
+| Quiver                                                      | 1 lb           | Back       |
+| Bedroll                                                     | 25 lbs         | Backpack   |
+| Sack (small)                                                | 1 lb           | Backpack   |
+| Flint and Steel                                             | 0.25 lbs       | Backpack   |
+| 10 Candles                                                  | 0.25 lbs       | Backpack   |
+| Metal Scroll Tube                                           | 1 lb           | Belt       |
+| 3 pages of Parchment                                        | 0.05 lbs       | Backpack   |
+| Ink                                                         | 0.25 lbs       | Backpack   |
+| Inkpen                                                      | 1 lb           | Belt       |
+| Spell Components Pouch                                      | 3 lbs          | Belt       |
+| Spellbook, Travelling (40 pages)                            | 3 lbs          | Backpack   |
+| Dragon Hide Spellbook, Travelling (50 pages)                | 3 lbs          | Backpack   |
+| Canteen                                                     | 5 lbs          | Worn       |
+| Rations, 10 days                                            | 10 lbs         | Backpack   |
+| Sunrod                                                      | 1 lb           | Backpack   |
+| Serpentstongue Arrows (16) + Silver Tipped Sheal Arrows (6) | 3 lbs          | Quiver     |
+| Taint Sticks (2)                                            | 0.02 lbs       | Backpack   |
+| Potion of Healing                                           | 0.1 lb         | Backpack   |
+| Scroll of Mage Armor *(used)*                               | 0.02 lbs       | Scrolltube |
+| Cal Shaped Sphere (Lightning Resistance)                    | 0.01 lb        | Pouch      |
+| Scroll of Sleep                                             | 0.02 lbs       | Scrolltube |
+| Healing Belt                                                | 0.25 lbs       | Waist      |
+| Paper suitable for a scroll                                 | —              | Backpack   |
+| Full length seal fur coat                                   | —              | —          |
+| All purpose leather gloves                                  | —              | —          |
+| Standard Spellbook (88/100 pages, 12 remaining)             | —              | —          |
+| Spell Bead healing (Rob will send details)                  | —              | —          |
 
 **Total Weight:** ~50.42 lbs
 
