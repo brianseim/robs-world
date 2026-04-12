@@ -57,3 +57,34 @@ After each session:
 - Pfineas is the party **Administrator** per the Concordium (though Pete/Garreck maintains the bank)
 - The official XP and bank records are the **online iCloud spreadsheets** — not paper
 - Flying movement rules supplement: [robsworld.org PDF](https://www.robsworld.org/Flying%20-%20Movement%20&%20Maneuverabi.pdf) (ref DMG pg 20)
+
+## Technology
+setting up Git Repo: https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
+setting up hosting: https://quartz.jzhao.xyz/hosting
+authored in Obsidian: https://obsidian.md/
+
+`npx quartz sync` is the command to update the Repo
+### Deployment workflow:
+
+```
+Edit in Obsidian
+      ↓
+Obsidian Git auto-pushes → v4 (preview)
+      ↓
+Happy with preview?
+      ↓
+git checkout main
+git merge v4
+git push origin main    ← triggers production deploy
+git checkout v4         ← go back to working branch
+```
+
+And for Quartz framework updates:
+
+```bash
+git checkout v4
+git fetch upstream
+git merge upstream/v4   ← test in preview first
+git checkout main
+git merge v4            ← promote to prod when confirmed working
+```
