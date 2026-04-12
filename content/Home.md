@@ -2,7 +2,7 @@
 tags: [home, index, moc]
 ---
 
-# Rob's World — According to Pfineas
+# Home — According to Pfineas
 
 *D&D 3.5 Campaign | DM: Robert | Sessions every two weeks*
 
