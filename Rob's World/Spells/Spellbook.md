@@ -18,13 +18,16 @@ tags: [spells, wizard, pfineas]
 
 *Transcribed from wet-erase tile. The crossed-out "weapons belt +1b" at top is a prior-session remnant. Left-column markers (X, 2) indicate spells cast/expended that session.*
 
-| Qty Prepared | Spell | Level | Status |
-|-------------|-------|-------|--------|
-| 1 | Knock | 2nd | ~~cast~~ (marked X — expended) |
-| 2 | Disguise Self | 1st | ~~2 cast~~ (marked 2 — expended) |
-| 1 | Hypnotic Pattern | 2nd | Unknown remaining |
-| 3 | Magic Missile | 1st | Unknown remaining |
-| 2 | Ray of Frost | 0 | Unknown remaining |
+| Qty Prepared | Spell             | Level | Status |
+| ------------ | ----------------- | ----- | ------ |
+| 2            | Ray of Frost      | 0     |        |
+| 1            | Mage Hand         | 0     |        |
+| 2            | Daze              | 0     |        |
+| 1            | Color Spray       | 1st   |        |
+| 1            | Magic Missile     | 1st   |        |
+| 1            | Mage Armor        | 1st   |        |
+| 1            | Knock             | 2nd   |        |
+| 1            | Melf's Acid Arrow | 2nd   |        |
 
 > [!tip] Update at table
 > Erase and rewrite this section each session to reflect current prepared spells and slots remaining.
@@ -85,16 +88,16 @@ tags: [spells, wizard, pfineas]
 
 *46 of 50 pages used in Dragon Hide travelling spellbook*
 
-| Spell | School | Components | Pages | PH Ref | Notes |
-|-------|--------|------------|-------|--------|-------|
-| Mirror Image | I | V,S | 5 | 254 | |
-| Pyrotechnics | T | V,S,M (fire source) | 6 | 267 | |
-| Melf's Acid Arrow | Con | V,S,M,F (powdered rhubarb leaf, adder's stomach, dart) | 6 | 253 | |
-| Hypnotic Pattern | I | S,M (glowing stick of incense) | 5 | 242 | |
-| Invisibility | I | V,S,M (eyelash encased in gum arabic) | 5 | 245 | |
-| Web | C | V,S,M (spider web) | 6 | 301 | |
-| Knock | T | V | 3 | 246 | |
-| Spider Climb | T | V,S,M (drop of bitumen and live spider) | 5 | 283 | |
+| Spell             | School | Components                                             | Pages | PH Ref | Notes |
+| ----------------- | ------ | ------------------------------------------------------ | ----- | ------ | ----- |
+| Mirror Image      | I      | V,S                                                    | 5     | 254    |       |
+| Pyrotechnics      | T      | V,S,M (fire source)                                    | 6     | 267    |       |
+| Melf's Acid Arrow | Con    | V,S,M,F (powdered rhubarb leaf, adder's stomach, dart) | 6     | 253    |       |
+| Hypnotic Pattern  | I      | S,M (glowing stick of incense)                         | 5     | 242    |       |
+| Invisibility      | I      | V,S,M (eyelash encased in gum arabic)                  | 5     | 245    |       |
+| Web               | C      | V,S,M (spider web)                                     | 6     | 301    |       |
+| Knock             | T      | V                                                      | 3     | 246    |       |
+| Spider Climb      | T      | V,S,M (drop of bitumen and live spider)                | 5     | 283    |       |
 
 ---
 
