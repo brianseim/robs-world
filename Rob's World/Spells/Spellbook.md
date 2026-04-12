@@ -23,9 +23,11 @@ tags: [spells, wizard, pfineas]
 | 2            | Ray of Frost      | 0     |        |
 | 1            | Mage Hand         | 0     |        |
 | 2            | Daze              | 0     |        |
+|              |                   |       |        |
 | 1            | Color Spray       | 1st   |        |
 | 1            | Magic Missile     | 1st   |        |
 | 1            | Mage Armor        | 1st   |        |
+|              |                   |       |        |
 | 1            | Knock             | 2nd   |        |
 | 1            | Melf's Acid Arrow | 2nd   |        |
 

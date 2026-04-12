@@ -29,15 +29,15 @@ aliases: [Xterminators, The Xterminators]
 *Full characters listing: [iCloud Numbers — Characters](https://www.icloud.com/numbers/0HW20xQotySrigHS4j5HZ93oA#Characters)*
 *(Includes stats all party members would commonly know about each other)*
 
-| # | Character | Player | Race | Class & Level | AC | Speed | Notes |
-|---|-----------|--------|------|---------------|----|-------|-------|
-| 1 | Phulleigh Dotfive | Sean O'Brien | Halfling, Male | Druid 3 | 20 | 10 ft. | |
-| 2 | Wistari-Rainn Zinthrya | Kim Vaessen | Human, Female | Bard 3 | 18 | 30 ft. | |
-| 3 | Garreck Palegold | Pete Bonacci | Duergar, Male | Factotum 2 (LA 1) | 22 / 21 enlarged | 20 ft. | Maintains Xterminators bank spreadsheet |
-| 4 | [[Pfineas Starmantle]] | NPC / Brian Seim (as of July 2024) | Moon Elf, Male | Wizard 3 (Illusionist) | 14 (18 w/ Mage Armor) | 30 ft. | Party Administrator; [[Labraen\|familiar: Labraen]] |
-| 5 | Vern of Shadowdale | Robert Wilhelm | Human, Male | Cleric 3 (of Lathander) | 22 | 30 ft. | |
-| 6 | AvyLynn | Leah Seim | Human, Female | Paladin 3 | 20 / 21 dodge | 30 ft. | |
-| 7 | Nathaniel Moonglow | David Hernandez | — | — | — | — | Details TBD |
+| #   | Character              | Player                             | Race           | Class & Level           | AC                    | Speed  | Notes                                               |
+| --- | ---------------------- | ---------------------------------- | -------------- | ----------------------- | --------------------- | ------ | --------------------------------------------------- |
+| 1   | Phulleigh Dotfive      | Sean O'Brien                       | Halfling, Male | Druid 3                 | 20                    | 10 ft. |                                                     |
+| 2   | Wistari-Rainn Zinthrya | Kim Vaessen                        | Human, Female  | Bard 3                  | 18                    | 30 ft. |                                                     |
+| 3   | Garreck Palegold       | Pete Bonacci                       | Duergar, Male  | Factotum 2 (LA 1)       | 22 / 21 enlarged      | 20 ft. | Maintains Xterminators bank spreadsheet             |
+| 4   | [[Pfineas Starmantle]] | NPC / Brian Seim (as of July 2024) | Moon Elf, Male | Wizard 3 (Illusionist)  | 14 (18 w/ Mage Armor) | 30 ft. | Party Administrator; [[Labraen\|familiar: Labraen]] |
+| 5   | Vern of Shadowdale     | Robert Wilhelm                     | Human, Male    | Cleric 3 (of Lathander) | 22                    | 30 ft. |                                                     |
+| 6   | [[AvyLynn]]            | Leah Seim                          | Human, Female  | Paladin 3               | 20 / 21 dodge         | 30 ft. |                                                     |
+| 7   | Nathaniel Moonglow     | David Hernandez                    | —              | —                       | —                     | —      | Details TBD                                         |
 
 ---
 
