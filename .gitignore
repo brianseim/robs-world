@@ -1,0 +1,26 @@
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.quartz-cache
+private/
+.replit
+replit.nix
+ 
+# Obsidian workspace state (all vaults)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-alt.json
+ 
+# Obsidian cache & runtime (all vaults)
+**/.obsidian/cache/
+**/.obsidian/.DS_Store
+ 
+# Obsidian plugins (install via manifest, all vaults)
+**/.obsidian/plugins/*/
+!**/.obsidian/plugins/*/manifest.json
+ 
+# Obsidian themes (all vaults)
+**/.obsidian/themes/*/
+!**/.obsidian/themes/custom-theme/
