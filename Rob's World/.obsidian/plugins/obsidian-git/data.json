@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}} Laptop",
+  "commitMessage": "vault backup: {{date}} Desktop",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",

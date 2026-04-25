@@ -205,7 +205,7 @@ Elven, Common, Draconic, Gnome, Goblin, Sylvan, Orc
 | Full length seal fur coat                                   | —              | —          |
 | All purpose leather gloves                                  | —              | —          |
 | Standard Spellbook (88/100 pages, 12 remaining)             | —              | —          |
-| Spell Bead healing (Rob will send details)                  | —              | —          |
+| [[Beads of Sepia Snake Sigil]]                              | —              | —          |
 
 **Total Weight:** ~50.42 lbs
 
