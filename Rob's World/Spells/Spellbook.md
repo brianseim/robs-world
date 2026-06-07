@@ -14,28 +14,6 @@ tags: [spells, wizard, pfineas]
 
 ---
 
-## Currently Prepared (Most Recent Session)
-
-*Transcribed from wet-erase tile. The crossed-out "weapons belt +1b" at top is a prior-session remnant. Left-column markers (X, 2) indicate spells cast/expended that session.*
-
-| Qty Prepared | Spell             | Level | Status |
-| ------------ | ----------------- | ----- | ------ |
-| 2            | Ray of Frost      | 0     |        |
-| 1            | Mage Hand         | 0     |        |
-| 2            | Daze              | 0     |        |
-|              |                   |       |        |
-| 1            | Color Spray       | 1st   |        |
-| 1            | Magic Missile     | 1st   |        |
-| 1            | Mage Armor        | 1st   |        |
-|              |                   |       |        |
-| 1            | Knock             | 2nd   |        |
-| 1            | Melf's Acid Arrow | 2nd   |        |
-
-> [!tip] Update at table
-> Erase and rewrite this section each session to reflect current prepared spells and slots remaining.
-
----
-
 ## Spell Save DCs
 
 | Level | Save DC | Spells/Day | Bonus Spells |

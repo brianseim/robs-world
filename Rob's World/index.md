@@ -43,7 +43,6 @@ Before each session:
 - [ ] Confirm HP and current spell slots
 
 After each session:
-- [ ] Update [[Spell Memorization Log]] with spells cast
 - [ ] Update [Pfineas XP Sheet](https://www.icloud.com/numbers/0a3IBkYhUNBx9YGfK89xFMsIA) with table XP
 - [ ] Update [[XP Log]] here for reference
 - [ ] Update marching order and watch order on the dry erase board
@@ -69,22 +68,15 @@ authored in Obsidian: https://obsidian.md/
 ```
 Edit in Obsidian
       ↓
-Obsidian Git auto-pushes → v4 (preview)
+npx quartz sync    ← commits and pushes directly to main
       ↓
-Happy with preview?
-      ↓
-git checkout main
-git merge v4
-git push origin main    ← triggers production deploy
-git checkout v4         ← go back to working branch
+Cloudflare Pages detects push → auto build & deploy to production
 ```
 
 And for Quartz framework updates:
 
 ```bash
-git checkout v4
 git fetch upstream
-git merge upstream/v4   ← test in preview first
-git checkout main
-git merge v4            ← promote to prod when confirmed working
+git merge upstream/v4   ← merge framework updates into main
+npx quartz sync         ← push triggers Cloudflare build/deploy
 ```
